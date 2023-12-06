@@ -14,7 +14,7 @@ Folder Locker is designed to provide a basic folder-locking functionality. Users
 - Secure password-based folder unlocking.
 - Simple and easy-to-use user interface.
   
-![Screenshot 2](Login_Locker.jpeg)
+![Screenshot 2](Screenshot 2023-11-24 001051.png)
 
 ## Getting Started
 
