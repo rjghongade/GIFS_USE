@@ -1,24 +1,25 @@
 # GIFS_USE
 Use the GIF and create a C# application in the window.
 
-# Folder-Locker
-Folder Locker is a simple folder-locking application built using C# and WPF.
+GIF stands for Graphics Interchange Format. GIF is a raster file format designed for relatively basic images that appear mainly on the internet. Each file can support up to 8 bits per pixel and can contain 256 indexed colors. GIF files also allow images or frames to be combined, creating basic animations.
 ![Screenshot 1](MAIN.png)
 
 ## Introduction
 
-Folder Locker is designed to provide a basic folder-locking functionality. Users can lock and unlock folders using a password.
-## Features
+GIF is a bitmap image format widely used for its support of animations and ability to store multiple images in a single file.
+It supports a maximum of 256 colors, making it suitable for simple graphics and animations.
 
-- Lock and unlock folders.
-- Secure password-based folder unlocking.
-- Simple and easy-to-use user interface.
+## Working with GIFs in C# Windows Forms:
+
+- PictureBox Control: In Windows Forms, the PictureBox control is commonly used to display images, including GIFs.
+- Bitmap Class: The Bitmap class in the System.Drawing namespace is used to work with images, including loading and displaying GIFs.
+- Timer Control: A Timer control is useful for controlling the animation of a GIF by triggering events at regular intervals.
   
 ![Screenshot 2](NEW1.png)
 
 ## Getting Started
 
-To get started with Folder Locker, you need to clone the repository and build the application using Visual Studio or your preferred C# development environment.
+To get started with GIF Application, you need to clone the repository and build the application using Visual Studio or your preferred C# development environment.
 
 ### Prerequisites
 
