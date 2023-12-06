@@ -30,7 +30,7 @@ To get started with GIF Application, you need to clone the repository and build 
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/rjghongade/Folder-Locker.git
+   https://github.com/rjghongade/GIFS_USE.git
 
 1. Open the project in Visual Studio.
 
@@ -42,39 +42,14 @@ rajughongade9022@gmail.com
 ```
 [screen_capture.webm](https://github.com/rjghongade/GIFS_USE/assets/105046011/4a5a0832-3e30-4db1-8a04-31b71a60dc51)
 
-### Usage
-1. Launch the application.
-2. Log in with your credentials.
-3. Select a folder to lock.
-4. Lock the folder by clicking the "Lock Folder" button.
-5. To unlock a folder, use the "Unlock Folder" button and enter the correct password.
+### Animating GIF:
+1. Use a Timer to control the animation by updating the display at regular intervals.
+2. The Timer's Tick event is used to handle animation updates.
+3. GifTimer_Tick is called at each interval of the Timer, providing an opportunity for animation updates.
 
-### Contributing
-Contributions are welcome. Please submit bug reports or feature requests through the GitHub issue tracker.
+![Screenshot 3](new.png)
 
-A "Folder Locker" is a software application designed to secure and protect specific folders on a computer or storage device. It offers users a way to restrict access to sensitive or private data stored in these folders, ensuring that only authorized individuals can view, modify, or delete the contents.
-
-Key features of a typical folder locker application include:
-
-1. Folder Locking: Users can select folders they want to secure, and the application employs encryption or access control mechanisms to prevent unauthorized access.
-
-2. Password Protection: Folders are typically protected with a password, PIN, or passphrase. Access is granted only to those who know the correct combination.
-
-3. Security Levels: Some folder lockers offer different levels of security, including basic password protection, advanced encryption, and hiding folders from view.
-
-4. Ease of Use: Many folder locker applications have user-friendly interfaces that make it easy to lock and unlock folders.
-
-5. File Recovery: In case users forget their passwords or need to recover locked data, some folder lockers provide recovery options.
-
-6. Privacy: Folder lockers are often used to protect personal, financial, or confidential data, helping users maintain their privacy and safeguard sensitive information.
-
-7. Customization: Users can typically customize the level of security and access settings for each locked folder.
-
-![Screenshot 3](NEW.png)
-
-Folder locker applications are commonly used for personal and professional reasons. They can secure personal files, confidential work-related documents, and more. However, it's important to choose a reputable and trustworthy folder locker to ensure the security of your data. Always keep backups of important information and remember your passwords to prevent accidental data loss.
-
-[Folder_Locker](https://github.com/rjghongade/Folder-Locker.git)
+Remember to replace "your_gif_path.gif" with the actual path to your GIF file.
 
 ### Social Media
 
