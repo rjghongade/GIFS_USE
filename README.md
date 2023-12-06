@@ -39,6 +39,7 @@ To get started with Folder Locker, you need to clone the repository and build th
 ```
 rajughongade9022@gmail.com
 ```
+[screen_capture.webm](https://github.com/rjghongade/GIFS_USE/assets/105046011/4a5a0832-3e30-4db1-8a04-31b71a60dc51)
 
 ### Usage
 1. Launch the application.
