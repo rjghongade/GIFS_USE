@@ -3,7 +3,7 @@ Use the GIF and create a C# application in the window.
 
 # Folder-Locker
 Folder Locker is a simple folder-locking application built using C# and WPF.
-![Screenshot 1](Screenshot 2023-12-07 020629.png)
+![Screenshot 1](Screenshot 2023-11-24 001051.png)
 
 ## Introduction
 
