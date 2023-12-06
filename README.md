@@ -3,7 +3,7 @@ Use the GIF and create a C# application in the window.
 
 # Folder-Locker
 Folder Locker is a simple folder-locking application built using C# and WPF.
-![Screenshot 1](Screenshot 2023-11-24 001051.png)
+![Screenshot 1](MAIN.png)
 
 ## Introduction
 
@@ -14,7 +14,7 @@ Folder Locker is designed to provide a basic folder-locking functionality. Users
 - Secure password-based folder unlocking.
 - Simple and easy-to-use user interface.
   
-![Screenshot 2](Screenshot 2023-11-24 001051.png)
+![Screenshot 2](NEW1.png)
 
 ## Getting Started
 
@@ -67,6 +67,8 @@ Key features of a typical folder locker application include:
 6. Privacy: Folder lockers are often used to protect personal, financial, or confidential data, helping users maintain their privacy and safeguard sensitive information.
 
 7. Customization: Users can typically customize the level of security and access settings for each locked folder.
+
+![Screenshot 2](NEW.png)
 
 Folder locker applications are commonly used for personal and professional reasons. They can secure personal files, confidential work-related documents, and more. However, it's important to choose a reputable and trustworthy folder locker to ensure the security of your data. Always keep backups of important information and remember your passwords to prevent accidental data loss.
 
